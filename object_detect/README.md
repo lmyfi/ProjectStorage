@@ -1,6 +1,7 @@
 项目简述：使用Faster RCNN、SSD、YOLOv3SPP三种目标检测器为基础，结合DeepSort进行视频序列目标检测系统设计。
 
-
+系统GUI：
+<img src="C:/Users/lmyfi/AppData/Roaming/Typora/typora-user-images/image-20240613143751031.png" alt="image-20240613143751031" style="zoom:50%;" />
 
 ### 使用方式
 
